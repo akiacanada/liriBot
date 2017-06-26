@@ -1,0 +1,24 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akiacanada/liriBot.git"
+  },
+  "author": "Akia Canada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akiacanada/liriBot/issues"
+  },
+  "homepage": "https://github.com/akiacanada/liriBot#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
